@@ -1,0 +1,14 @@
+baseURL: http://pixxel.earth/
+languageCode: en-us
+title: Pixxel
+theme: hugograyscale
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+params:
+  description: Pixxel 
+Author:
+  email: contact@pixxel.earth
+  name: Cheif Officer
+Social:
+  twitter: pixxel.earth
